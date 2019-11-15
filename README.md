@@ -1,7 +1,4 @@
-# lab14
-Data Normalization
-
-Data Normalization
+# Lab-14 Data Normalization
 
 Number and name of feature: Normalize Data
 
